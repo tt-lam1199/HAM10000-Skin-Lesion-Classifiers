@@ -6,6 +6,9 @@ seaborn>=0.13,<1
 datasets>=3.0,<5
 Pillow>=10.4,<12
 tensorflow>=2.16,<3
+torch
+torchvision
+torchsummary
 jupyter>=1.0,<2
 ipykernel>=6.29,<7
 kagglehub>=0.1,<1
