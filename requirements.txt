@@ -1,3 +1,5 @@
+--extra-index-url https://pytorch.org
+
 numpy>=1.26,<3
 pandas>=2.2,<3
 scikit-learn>=1.4,<2
@@ -12,3 +14,4 @@ torchsummary
 jupyter>=1.0,<2
 ipykernel>=6.29,<7
 kagglehub>=0.1,<1
+opencv-python
